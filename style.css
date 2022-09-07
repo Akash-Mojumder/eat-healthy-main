@@ -1,3 +1,7 @@
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
 .skip-orange{
     color: orange;
 }
@@ -8,18 +12,33 @@
 .width-calculate{
     width: 50%;
     padding-left: 80px;
-    padding-right: 70px;
-    font-size: 40px;
+    padding-right: 120px;
+    color: rgb(76, 72, 72);
+    
+    font-size: 30px;
 }
+.width-calculate h1{
+margin-top: 30%; 
+font-size: 180%;
+
+
+}
+
 .width-calculate img{
-    width: 100%;
+    width: 118%;
     height: 100%;
+   /* padding-right: 150%; */
     
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(to bottom right,green,tomato);
-    color: black;
+    /* background-color: #f34e13; */
+    background-image: linear-gradient(to bottom right,rgb(244, 170, 101),#fb4909);
+    color: white;
     border-radius: 30px;
     padding: 10px 20px;
+    font-size: 22px;
+}
+p{
+    font-size: 22px;
 }
