@@ -87,7 +87,7 @@ font-size: 180%;
     padding-left: 20px;
     /* border: 20px solid rgb(234, 199, 199);
     border-radius: 50px; */
-    box-shadow: 10px 10px 15px 5px rgb(156, 210, 228);
+    box-shadow: 10px 5px 15px 5px rgb(156, 210, 228);
     ;
     
 }
@@ -106,7 +106,7 @@ font-size: 180%;
     padding-right: 20px;
     /* border: 20px solid rgb(234, 199, 199);
     border-radius: 50px; */
-    box-shadow: 10px 10px 15px 5px rgb(156, 210, 228);
+    box-shadow: 10px 5px 15px 5px rgb(156, 210, 228);
         /* margin: 10%; */
 }
 /* .right-picture li{
@@ -152,4 +152,17 @@ font-size: 180%;
 }
 .social-structure2 h1{
     font-size: 60px;
+}
+.ending{
+    text-align: center;
+    background-color: rgb(54, 12, 21);
+    color: rgb(129, 124, 144);
+
+}
+.eat-color{
+    color: #fb4909;
+}
+.footer-structure{
+    padding-top: 20px;
+    padding-bottom: 70px;
 }
